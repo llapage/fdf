@@ -8,21 +8,21 @@ The program can be build with a simple "make" command (if you have mlx installed
 
 run the program
 
-./fdf
+./fdf [map]
 
 Example
 Simple example of functionality
 The following is an example of a .fdf file we use as an input for our program where numbers grow depending of the height whished at x and y coordinate:
 
-0 0 1 2 3 4 5 6 7 8 9
-0 0 0 1 2 3 4 5 6 7 8
-0 0 0 0 1 2 3 4 5 6 7
-0 0 0 0 0 1 2 3 4 5 6
-0 0 0 0 0 0 1 2 3 4 5
-0 0 0 0 0 0 0 1 2 3 4
-0 0 0 0 0 0 0 0 1 2 3
-0 0 0 0 0 0 0 0 0 1 2
-0 0 0 0 0 0 0 0 0 0 1
+0 0 1 2 3 4 5 6 7 8 9 <br />
+0 0 0 1 2 3 4 5 6 7 8 <br />
+0 0 0 0 1 2 3 4 5 6 7 <br />
+0 0 0 0 0 1 2 3 4 5 6 <br />
+0 0 0 0 0 0 1 2 3 4 5 <br />
+0 0 0 0 0 0 0 1 2 3 4 <br />
+0 0 0 0 0 0 0 0 1 2 3 <br />
+0 0 0 0 0 0 0 0 0 1 2 <br />
+0 0 0 0 0 0 0 0 0 0 1 <br />
 
 
 Here is a more complex example with a different map:
