@@ -35,10 +35,8 @@ int	print_d(long long n_arg)
 	long long	nb;
 	int			len;
 	char		*str;
-	int			i;
 
 	len = 0;
-	i = 0;
 	nb = n_arg;
 	if (n_arg == 0)
 		len = 1;
