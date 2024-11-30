@@ -1,16 +1,19 @@
-[MacOs] FdF
+**[MacOs] FdF**
 
-About
+**About** <br />
+
 FdF is a project in which we convert a file with a grid of height values into a 3d wireframe using a simple graphics library called MiniLibX.
 
-Installation
+**Installation** <br />
+
 The program can be build with a simple "make" command (if you have mlx installed [42 infrastructure] !)
 
-run the program
+**Run the program**
 
-./fdf [map]
+./fdf maps/test_maps/[map]
 
-Example
+**Example** <br />
+
 Simple example of functionality
 The following is an example of a .fdf file we use as an input for our program where numbers grow depending of the height whished at x and y coordinate:
 
